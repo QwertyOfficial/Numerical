@@ -1,6 +1,6 @@
 # Numerical
 A simple open source calculator inspired by Numi
-If you decide to use my source code, please credit me. I spend a long time making my applications and I would like to be credited for my work if anyone finds uses it.
+If you decide to use my source code, please credit me. I spend a long time making my applications and I would like to be credited for my work if anyone uses it.
 
 <img width="513" alt="Screenshot 2024-10-28 at 6 21 02 pm" src="https://github.com/user-attachments/assets/3c84692c-f263-437c-bd27-df4e28654a7c">
 
