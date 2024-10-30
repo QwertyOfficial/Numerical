@@ -9,3 +9,5 @@ The equation and
 
 <img width="480" alt="Screenshot 2024-10-28 at 6 23 05 pm" src="https://github.com/user-attachments/assets/786504dd-11c2-4d8e-81df-1e69f20f5078">
 The answer
+
+If you decide to use my source code, please credit me. I spend a long time making my applications and I would like to be credited for my work if anyone finds uses it.
